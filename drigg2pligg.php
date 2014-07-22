@@ -8,7 +8,7 @@
 		public static $host = 'localhost';
 		public static $user = 'root';
 		public static $password = 'pass';
-		public static $db = 'scoop';
+		public static $db = 'drigg';
 		public static $prefix = '';
 	}
 	
@@ -16,7 +16,7 @@
 		public static $host = 'localhost';
 		public static $user = 'root';
 		public static $password = 'pass';
-		public static $db = 'pligg_scoop_at';
+		public static $db = 'pligg';
 		public static $prefix = '';
 	}
 
